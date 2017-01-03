@@ -1,6 +1,6 @@
 {
   "name": "codemirror-lint-eslint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[codemirror-lint-eslint](https://github.com/angelozerr/codemirror-lint-eslint) provides the [eslint-lint.js](https://github.com/angelozerr/codemirror-lint-eslint/blob/master/eslint-lint.js) which is a [CodeMirror addon](http://codemirror.net/doc/manual.html#addons)  to use [CodeMirror Lint](http://codemirror.net/addon/lint/lint.js) with [ESLint](https://github.com/eslint/eslint).",
   "main": "eslint-lint.js",
   "scripts": {
