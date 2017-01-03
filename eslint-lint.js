@@ -4,7 +4,7 @@
 // Depends on eslint.js from https://github.com/eslint/eslint
 "use strict";
 var CodeMirror = require('codemirror');
-var eslint = require('eslint');
+var eslint = require('eslint-webpack');
   var defaultConfig = {
     "ecmaFeatures": {},
     "env": {
@@ -195,3 +195,4 @@ var eslint = require('eslint');
 		return "error";
 	}    
   }
+exports.defaultConfig = defaultConfig;
